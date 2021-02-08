@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\ModBusMaster\ModBusMaster\bin\Debug\ModBusMaster.exe.config
+C:\Users\User\source\repos\ModBusMaster\ModBusMaster\bin\Debug\ModBusMaster.exe
+C:\Users\User\source\repos\ModBusMaster\ModBusMaster\bin\Debug\ModBusMaster.pdb
+C:\Users\User\source\repos\ModBusMaster\ModBusMaster\obj\Debug\ModBusMaster.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ModBusMaster\ModBusMaster\obj\Debug\ModBusMaster.Properties.Resources.resources
+C:\Users\User\source\repos\ModBusMaster\ModBusMaster\obj\Debug\ModBusMaster.csproj.GenerateResource.cache
+C:\Users\User\source\repos\ModBusMaster\ModBusMaster\obj\Debug\ModBusMaster.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ModBusMaster\ModBusMaster\obj\Debug\ModBusMaster.exe
+C:\Users\User\source\repos\ModBusMaster\ModBusMaster\obj\Debug\ModBusMaster.pdb
+C:\Users\User\source\repos\ModBusMaster\ModBusMaster\obj\Debug\ModBusMaster.ModBusMasterInterface.resources
