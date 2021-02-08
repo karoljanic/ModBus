@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\ModBusSlave\ModBusSlave\bin\Debug\ModBusSlave.exe.config
+C:\Users\User\source\repos\ModBusSlave\ModBusSlave\bin\Debug\ModBusSlave.exe
+C:\Users\User\source\repos\ModBusSlave\ModBusSlave\bin\Debug\ModBusSlave.pdb
+C:\Users\User\source\repos\ModBusSlave\ModBusSlave\obj\Debug\ModBusSlave.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ModBusSlave\ModBusSlave\obj\Debug\ModBusSlave.Properties.Resources.resources
+C:\Users\User\source\repos\ModBusSlave\ModBusSlave\obj\Debug\ModBusSlave.csproj.GenerateResource.cache
+C:\Users\User\source\repos\ModBusSlave\ModBusSlave\obj\Debug\ModBusSlave.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ModBusSlave\ModBusSlave\obj\Debug\ModBusSlave.exe
+C:\Users\User\source\repos\ModBusSlave\ModBusSlave\obj\Debug\ModBusSlave.pdb
+C:\Users\User\source\repos\ModBusSlave\ModBusSlave\obj\Debug\ModBusSlave.ModBusSlaveInterface.resources
